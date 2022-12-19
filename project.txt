@@ -1,0 +1,19 @@
+
+
+            Contact Management app - API based angular project
+
+        1. create an Angular project
+        2. Installing Bootstrap and font-Awsome
+        3. paste cdn link of font-awsome in index.html
+        4. configure bootstrap and font awsome in angular.json
+        5. Configure google fonts in style.css / index.html
+        6. check all works fine
+        7. Create Components needed to display in webpage
+                - contactManager - view all contacts
+                - addContact - add a new contactManager
+                - updateContact - to edit the existing contact
+                - viewContact - to view a particular contact
+                - pageNotFound - 
+        8. set up path for each component in order to view it in browser
+                - set up path for each component in app-routing.mpdule.ts , routes array 
+                - add selector router-outlet for displaying
